@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "Adds a floodfill function",
+		"author": "JochCool",
+		"version": "1.0",
+		"repository": "https://github.com/JochCool/Floodfill"
+	}
+}
