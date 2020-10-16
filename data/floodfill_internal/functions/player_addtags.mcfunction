@@ -1,4 +1,4 @@
-## <name>_floodfill:player_addtags</name>
+## <name>floodfill_internal:player_addtags</name>
 ## <author>JochCool</author>
 ## <summary>
 ## Temporarily adds the XYZ tags to this player because they didn't do it themselves

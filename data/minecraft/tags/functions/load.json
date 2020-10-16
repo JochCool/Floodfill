@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"_floodfill:load"
+		"floodfill_internal:load"
 	]
 }

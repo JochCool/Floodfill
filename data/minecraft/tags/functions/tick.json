@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"_floodfill:tick"
+		"floodfill_internal:tick"
 	]
 }

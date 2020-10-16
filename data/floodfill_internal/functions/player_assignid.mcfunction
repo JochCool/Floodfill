@@ -1,4 +1,4 @@
-## <name>_floodfill:player_assignid</name>
+## <name>floodfill_internal:player_assignid</name>
 ## <author>JochCool</author>
 ## <summary>
 ## Assigns a new ID to this player

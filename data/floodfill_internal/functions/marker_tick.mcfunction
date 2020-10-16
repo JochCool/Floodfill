@@ -1,4 +1,4 @@
-## <name>_floodfill:marker_tick</name>
+## <name>floodfill_internal:marker_tick</name>
 ## <author>JochCool</author>
 ## <summary>
 ## Ticking function for floodfill_markers

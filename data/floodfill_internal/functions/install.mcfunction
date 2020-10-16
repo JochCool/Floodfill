@@ -1,4 +1,4 @@
-## <name>_floodfill:install</name>
+## <name>floodfill_internal:install</name>
 ## <author>JochCool</author>
 ## <summary>
 ## Sets up the datapack. This function should never be called if it has already been installed.
