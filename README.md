@@ -20,10 +20,10 @@ After filling an area, the area remains selected until you select a new area. Th
 * `floodfill:info`: Displays some info about this datapack.
 * `floodfill:uninstall`: Deselects everyone's selected areas and uninstalls the datapack. Note: make sure to also disable the datapack with the command `/datapack disable "file/Floodfill.zip"`!
 
-Note: you may notice there are also some other functions whose name starts with an underscore. Please *do not* run those functions. They are there for internal use only.
+Note: you may notice there are also some other functions that start with `floodfill_internal` in the name. Please *do not* use those functions. They are there for internal use only.
 
 ## Installation
-You can [download this datapack from GitHub](https://github.com/JochCool/Floodfill/archive/master.zip).
+You can [download this datapack from GitHub](https://github.com/JochCool/Floodfill/releases/latest/download/Floodfill.zip).
 
 If you want to add it to a new world, then in the world creation screen, click the Data Packs button, and drag the ZIP file you downloaded onto Minecraft.
 
